@@ -45,6 +45,13 @@ h2 {
     font-size: 1.5rem;
 }
 
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: larger;
+    color:  rgba(92, 65, 37, 0.539);
+}
+
 footer {
     position: fixed;
     bottom: 0;
